@@ -1,4 +1,3 @@
 one
 second
 three
-four
